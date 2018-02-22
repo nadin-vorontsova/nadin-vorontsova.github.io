@@ -1,12 +1,16 @@
 ---
+title: I conquer the Himalayas
+date: 2017-08-25 10:32:20 Z
+tags:
+- Blog
+- Mountains
 layout: post
-title:  I conquer the Himalayas
-date:   2017-08-25 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it
+  and re-build the site to see your changes.
+img: post-1.jpg
+author: Adam Neilson
 ---
+
 Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
 
 Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
