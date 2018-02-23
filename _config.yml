@@ -16,19 +16,13 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 permalink: ":title/"
 url: ''
-author: Nadezhda Vorontsova
+author: Nadya Vorontsova
 author-pic: avatar.jpg
 about-author: My name is Nadezhda and I am krasotka.
 phone: 
 website: 
-linkedin: 
-github: artemsheludko
-twitter: "@artemsheludko_"
-facebook: 
 instagram: 
-pinterest: 
-mailchimp: 
-discus_identifier: mr-brown
+discus_identifier: 
 analytics: 
 paginate: 6
 paginate_path: "/page:num/"
