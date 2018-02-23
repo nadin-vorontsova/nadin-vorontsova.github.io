@@ -1,11 +1,11 @@
----
+﻿---
 title: Барселона
 date: 2018-02-24 00:20:00 Z
 tags:
 - Blog
 - Barcelona
 - Travel
-img: 
+img: montjuic.JPG
 layout: post
 ---
 
