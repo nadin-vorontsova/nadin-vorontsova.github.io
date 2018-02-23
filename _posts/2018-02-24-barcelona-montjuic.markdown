@@ -1,10 +1,4 @@
 ---
-title: Barcelona Montjuic
-date: 2018-02-24 00:00:00 Z
-published: false
----
-
----
 title: Барселона
 date: 2018-02-24 00:20:00 Z
 tags:
