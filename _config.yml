@@ -1,6 +1,6 @@
 ---
 title: My personal blog - Nadin Vorontsova
-timezone: UTC
+timezone: Europe/Moscow
 collections:
   posts:
     title: Posts
@@ -18,11 +18,11 @@ permalink: ":title/"
 url: ''
 author: Nadya Vorontsova
 author-pic: avatar.jpg
-about-author: My name is Nadezhda and I am krasotka.
+about-author: Меня зовут Надя Воронцова. Здесь я пишу о путешествиях и о своих увлечениях.
 phone: 
 website: 
-instagram: 
-discus_identifier: 
+instagram: nadya_vorontsova
+discus_identifier: nadyavorontsova
 analytics: 
 paginate: 6
 paginate_path: "/page:num/"
