@@ -5,7 +5,7 @@ tags:
 - Blog
 - Kolmar
 - Travel
-img: kolmar.JPG
+img: Kolmar.JPG
 layout: post
 ---
 
