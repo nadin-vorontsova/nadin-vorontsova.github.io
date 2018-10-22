@@ -4,7 +4,6 @@ date: 2018-10-07 03:20:00 +03:00
 tags:
 - Blog
 - Sicilia
-- Сицилия
 - Italy
 - Travel
 img: sicilia.jpg
