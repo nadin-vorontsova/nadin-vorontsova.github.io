@@ -1075,6 +1075,7 @@ pre code {
   width: 50%;
   -webkit-transition: all .3s;
   transition: all .3s;
+  border: 2px solid transparent;
 }
 
 .post-card-box li:hover {
