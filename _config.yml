@@ -25,7 +25,7 @@ yandex-metrika: 47839994
 paginate: 12
 paginate_path: "/page:num/"
 markdown: kramdown
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
