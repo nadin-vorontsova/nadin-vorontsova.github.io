@@ -4,6 +4,7 @@ date: 2018-03-11 03:20:00 +03:00
 tags:
 - Blog
 - Strasbourg
+- France
 - Travel
 img: strasbourg.JPG
 layout: post

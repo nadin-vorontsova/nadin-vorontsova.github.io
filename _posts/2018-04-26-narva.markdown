@@ -4,6 +4,7 @@ date: 2018-04-26 03:20:00 +03:00
 tags:
 - Blog
 - Narva
+- Estonia
 - Travel
 img: narva.jpg
 layout: post
