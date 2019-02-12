@@ -25,6 +25,9 @@ yandex-metrika: 47839994
 paginate: 12
 paginate_path: "/page:num/"
 markdown: kramdown
+instagram_user_id: 46429618
+instagram_client_id: 375fb1518e8a46adaa1297a1647c82a0
+instagram_access_token: 46429618.375fb15.5775661ad099493fb283bfd293ad8ab4
 plugins:
 - jekyll-paginate
 - jekyll-feed

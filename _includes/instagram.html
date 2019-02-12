@@ -1,0 +1,19 @@
+<script type="text/javascript" src="/assets/js/instafeed.js"></script>
+<script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'user',
+        sortBy: 'most-recent',
+<!--        template: '<a href="\{\{link\}\}"><img src="\{\{image\}\}" style="width:200px" /></a>', -->
+        userId: '{{site.instagram_user_id}}',
+        clientId: '{{site.instagram_client_id}}',
+        accessToken: '{{site.instagram_access_token}}',
+    });
+
+    feed.run();
+</script>
+
+</br>
+</br>
+
+<div id="instafeed">
+</div>

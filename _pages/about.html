@@ -11,7 +11,17 @@ layout: home-page
         <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
       </div>
       <p class="subtitle">{{site.about-author}}</p>
+
+    </br>
+    </br>
+    <hr width="80px">
+
+    {% include instagram.html %}
+
     </section>
+
+
+
     <section class="about-body">
       <ul class="contact-list">
       {% if site.email %}
