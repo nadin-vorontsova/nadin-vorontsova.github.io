@@ -5,7 +5,8 @@ tags:
 - Blog
 - Barcelona
 - Travel
-img: montjuic.JPG
+img: montjuic/montjuic.JPG
+img_preview: /montjuic/montjuic.JPG_small
 layout: post
 ---
 

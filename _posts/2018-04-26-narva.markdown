@@ -6,7 +6,8 @@ tags:
 - Narva
 - Estonia
 - Travel
-img: narva.jpg
+img: narva/narva.jpg
+img_preview: narva/narva.jpg_small
 layout: post
 ---
 

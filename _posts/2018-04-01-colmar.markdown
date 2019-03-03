@@ -6,7 +6,8 @@ tags:
 - Colmar
 - France
 - Travel
-img: colmar.jpg
+img: colmar/colmar.jpg
+img_preview: colmar/colmar.jpg_small
 layout: post
 ---
 

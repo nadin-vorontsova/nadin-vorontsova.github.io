@@ -6,7 +6,8 @@ tags:
 - Rome
 - Italy
 - Travel
-img: rome.jpg
+img: rome/rome.jpg
+img_preview: rome/rome.jpg_small
 layout: post
 ---
 

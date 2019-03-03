@@ -6,7 +6,8 @@ tags:
 - Zurich
 - Switzerland
 - Travel
-img: zurich.jpg
+img: zurich/zurich.jpg
+img_preview: zurich/zurich.jpg_small
 layout: post
 ---
 

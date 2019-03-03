@@ -6,7 +6,8 @@ tags:
 - Florence
 - Italy
 - Travel
-img: florence.jpg
+img: florence/florence.jpg
+img_preview: florence/florence.jpg_small
 layout: post
 ---
 

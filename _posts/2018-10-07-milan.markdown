@@ -6,7 +6,8 @@ tags:
 - Milan
 - Italy
 - Travel
-img: duomo1.jpg
+img: milan/duomo1.jpg
+img_preview: milan/duomo1.jpg_small
 layout: post
 ---
 

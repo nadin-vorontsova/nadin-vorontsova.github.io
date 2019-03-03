@@ -6,7 +6,8 @@ tags:
 - Strasbourg
 - France
 - Travel
-img: strasbourg.JPG
+img: strasbourg/strasbourg.JPG
+img_preview: strasbourg/strasbourg.JPG_small
 layout: post
 ---
 

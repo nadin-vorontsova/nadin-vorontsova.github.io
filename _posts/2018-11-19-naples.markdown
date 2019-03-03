@@ -6,7 +6,8 @@ tags:
 - Naples
 - Italy
 - Travel
-img: naples.jpg
+img: naples/naples.jpg
+img_preview: naples/naples.jpg_small
 layout: post
 ---
 

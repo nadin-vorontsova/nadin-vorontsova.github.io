@@ -6,7 +6,8 @@ tags:
 - Tanzania
 - Africa
 - Travel
-img: dar.jpg
+img: dar/dar.jpg
+img_preview: dar/dar_small.jpg
 layout: post
 ---
 

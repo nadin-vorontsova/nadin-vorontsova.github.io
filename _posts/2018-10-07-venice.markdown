@@ -6,7 +6,8 @@ tags:
 - Venice
 - Italy
 - Travel
-img: ven.jpg
+img: venice/ven.jpg
+img_preview: venice/ven.jpg_small
 layout: post
 ---
 

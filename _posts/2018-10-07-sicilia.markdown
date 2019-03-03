@@ -6,7 +6,8 @@ tags:
 - Sicilia
 - Italy
 - Travel
-img: sicilia.jpg
+img: sicilia/sicilia.jpg
+img_preview: sicilia/sicilia.jpg_small
 layout: post
 ---
 
