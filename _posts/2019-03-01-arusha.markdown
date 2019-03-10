@@ -160,7 +160,7 @@ layout: post
 &nbsp;&nbsp;&nbsp;&nbsp; <center> Все мы, кроме Юли. На второй фотке пасутся аисты-марабу. </center>
 
 <center>
-<img width="375" src="/assets/img/arusha/all.jpg">
+<img width="375" src="/assets/img/arusha/all.JPG">
 <img width="375" src="/assets/img/arusha/birds.jpg">
 </center>
 
