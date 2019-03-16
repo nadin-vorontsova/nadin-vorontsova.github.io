@@ -44,7 +44,7 @@ layout: post
 &nbsp;&nbsp;&nbsp;&nbsp; Это на фотке все мы в парке Аруша, кроме Димона, а на второй фотке карты национальных парков Танзании. Карта - хороший сувенир, покупать их лучше в книжном магазине.
 
 <center>
-<img width="270" src="/assets/img/arusha/bigtree3.jpg">
+<img width="270" src="/assets/img/arusha/bigtree3.JPG">
 <img width="480" src="/assets/img/arusha/map.jpg">
 </center>
 
@@ -62,7 +62,7 @@ layout: post
 
 <center>
 
-<img width="500" src="/assets/img/arusha/newyear2.jpg">
+<img width="500" src="/assets/img/arusha/newyear2.JPG">
 </center>
 
 # Meru Forest
@@ -160,7 +160,7 @@ layout: post
 &nbsp;&nbsp;&nbsp;&nbsp; <center> Все мы, кроме Юли. На второй фотке пасутся аисты-марабу. </center>
 
 <center>
-<img width="375" src="/assets/img/arusha/all.jpg">
+<img width="375" src="/assets/img/arusha/all.JPG">
 <img width="375" src="/assets/img/arusha/birds.jpg">
 </center>
 
