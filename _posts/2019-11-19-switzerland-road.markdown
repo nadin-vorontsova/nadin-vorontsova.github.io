@@ -85,7 +85,7 @@ layout: post
 <center> &nbsp;&nbsp;&nbsp;&nbsp; Завершаю историю кривой фоткой, сделанной из машины. Все равно красотека. </center>
 
 <center>
-<img width="600" src="/assets/img/switzerland_road/view.jpg">
+<img width="450" src="/assets/img/switzerland_road/view.jpg">
 </center>
 
 Надя :green_heart:
