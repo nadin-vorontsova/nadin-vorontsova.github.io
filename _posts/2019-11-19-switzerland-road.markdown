@@ -82,7 +82,7 @@ layout: post
 
 &nbsp;&nbsp;&nbsp;&nbsp; Мы проезжали много мелких населенных пунктов, а я ставила точки на карте, чтобы потом, когда-нибудь в жизни, сюда вернуться. 
 
-<center> &nbsp;&nbsp;&nbsp;&nbsp; Завершаю историю кривой фоткой, сделанной из машины. Все равно красиво. </center>
+<center> &nbsp;&nbsp;&nbsp;&nbsp; Завершаю историю кривой фоткой, сделанной из машины. Все равно красотека. </center>
 
 <center>
 <img width="600" src="/assets/img/switzerland_road/view.jpg">
