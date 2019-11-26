@@ -25,7 +25,7 @@ layout: post
 </center>
 
 <br>
-<center> &nbsp;&nbsp;&nbsp;&nbsp; Дождь реально раздосадовал, поэтому пришлось купить BAILONI, раскупорить его и пригубить). </center>
+<center> &nbsp;&nbsp;&nbsp;&nbsp; Дождь реально раздосадовал, поэтому пришлось купить BAILONI, откупорить его и пригубить). </center>
 
 <center>
 <img width="375" src="/assets/img/innsbruck/street.jpg">
