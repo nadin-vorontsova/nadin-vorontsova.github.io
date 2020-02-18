@@ -1,8 +1,9 @@
 ---
-title: Барселона. Часть 1. Монтжуик
+title: Испания. Барселона. Монтжуик
 date: 2018-02-24 03:20:00 +03:00
 tags:
 - Blog
+- Spain
 - Barcelona
 - Travel
 img: montjuic/montjuic.JPG

@@ -1,8 +1,9 @@
 ---
-title: Барселона. Часть 2. Гауди
+title: Испания. Барселона. Гауди
 date: 2018-02-24 03:20:00 +03:00
 tags:
 - Blog
+- Spain
 - Barcelona
 - Travel
 img: gaudi/gaudi.JPG
