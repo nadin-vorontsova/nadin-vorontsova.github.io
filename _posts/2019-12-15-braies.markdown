@@ -7,7 +7,7 @@ tags:
 - Travel
 - Dolomites
 img: braies/braies.jpg
-img_preview: braies/braies.jpg
+img_preview: braies/braies.jpg_small
 layout: post
 ---
 

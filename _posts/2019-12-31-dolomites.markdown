@@ -7,7 +7,7 @@ tags:
 - Travel
 - Dolomites
 img: dolomites/dolomites.jpg
-img_preview: dolomites/dolomites.jpg
+img_preview: dolomites/dolomites.jpg_small
 layout: post
 ---
 

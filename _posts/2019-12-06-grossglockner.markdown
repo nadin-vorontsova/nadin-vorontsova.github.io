@@ -6,7 +6,7 @@ tags:
 - Austria
 - Travel
 img: grossglockner/intestines.jpg
-img_preview: grossglockner/intestines.jpg
+img_preview: grossglockner/intestines.jpg_small
 layout: post
 ---
 

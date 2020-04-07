@@ -7,7 +7,7 @@ tags:
 - Dolomites
 - Travel
 img: switzerland_road/road.jpg
-img_preview: switzerland_road/road.jpg
+img_preview: switzerland_road/road_small.jpg
 layout: post
 ---
 

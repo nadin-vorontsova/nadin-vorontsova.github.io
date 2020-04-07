@@ -6,7 +6,7 @@ tags:
 - Portugal
 - Travel
 img: sintra/sintra.jpg
-img_preview: sintra/sintra.jpg
+img_preview: sintra/sintra.jpg_small
 layout: post
 ---
 
