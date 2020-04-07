@@ -6,7 +6,7 @@ tags:
 - Austria
 - Travel
 img: innsbruck/ambras.jpg
-img_preview: innsbruck/ambras.jpg_small
+img_preview: innsbruck/ambras_small.jpg
 layout: post
 ---
 
