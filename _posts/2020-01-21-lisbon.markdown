@@ -6,7 +6,7 @@ tags:
 - Portugal
 - Travel
 img: lisbon/lisbon.jpg
-img_preview: lisbon/lisbon.jpg_small
+img_preview: lisbon/lisbon_small.jpg
 layout: post
 ---
 
