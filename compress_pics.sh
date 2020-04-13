@@ -3,7 +3,7 @@
 MAX_WIDTH=800
 MAX_HEIGHT=800
 
-for pic in $(find assets/img/seville -type f -iname *.jpg); do
+for pic in $(find /Users/nadya/Desktop/test/ -type f -iname *.jpg); do
     pic_filename=$(basename $pic)
     # dont touch background picture
     if find . -type f -iname "*.markdown" | xargs cat | grep "img:" | grep -q $pic_filename; then
