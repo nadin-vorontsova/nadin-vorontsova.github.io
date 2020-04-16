@@ -1,0 +1,29 @@
+#!/bin/bash
+
+MAX_WIDTH=1500
+MAX_HEIGHT=1500
+
+read -p "Enter folder name to compress: " folder
+
+[ -z $folder ] && exit
+
+for pic in $(find /Users/nadya/Documents/GitHub/nadin-vorontsova.github.io/assets/img/$folder/ -type f -iname *.jpg); do
+    pic_filename=$(basename $pic)
+    # dont touch background picture
+    if find /Users/nadya/Documents/GitHub/nadin-vorontsova.github.io/_posts/  -type f -iname "*.markdown" | xargs cat | grep "img:" | grep -q $pic_filename; then
+        echo $pic is skipped
+        continue
+    fi
+    width=$(identify -format "%w\n" $pic)
+    height=$(identify -format "%h\n" $pic)
+    if [ "$width" > "$MAX_WIDTH" ]; then
+        echo Resizing width of $(basename $pic)...
+        convert -resize ${MAX_WIDTH}x $pic $pic
+    fi
+
+    if [ "$height" > "$MAX_HEIGHT" ]; then
+        echo Resizing height of $(basename $pic)...
+        convert -resize x${MAX_HEIGHT} $pic $pic
+    fi
+
+done
