@@ -19,9 +19,9 @@ phone:
 website: 
 instagram: nadya_vorontsova
 vk: nadin_countess
-discus_identifier: nadin-vorontsova-github-com
+# discus_identifier: nadin-vorontsova-github-com
 analytics: 
-yandex-metrika: 47839994
+# yandex-metrika: 47839994
 paginate: 20
 paginate_path: "/page:num/"
 markdown: kramdown
