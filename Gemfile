@@ -4,4 +4,5 @@ source 'https://rubygems.org' do
   gem 'jekyll-feed'
   gem 'tzinfo-data'
   gem 'jekyll-sitemap'
+  gem 'webrick'
 end
